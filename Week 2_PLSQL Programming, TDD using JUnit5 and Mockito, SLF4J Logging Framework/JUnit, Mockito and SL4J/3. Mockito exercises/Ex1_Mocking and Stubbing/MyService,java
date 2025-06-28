@@ -1,0 +1,13 @@
+package Ex3.Mock;
+
+public class MyService {
+	private Ext_API api;
+
+    public MyService(Ext_API api) {
+        this.api = api;
+    }
+
+    public String fetchData() {
+        return api.getData();
+    }
+}
