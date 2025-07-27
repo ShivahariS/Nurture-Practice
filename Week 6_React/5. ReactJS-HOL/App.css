@@ -1,0 +1,30 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  background-color: white;
+  font-family: Arial, sans-serif;
+}
+
+#root {
+  background-color: white;
+  min-height: 100vh;
+}
+
+.app-background {
+  background-color: white;
+  padding: 20px;
+}
+
+.app-heading {
+  text-align: center;
+  font-size: 24px;
+  margin-bottom: 20px;
+  color: #222;
+}
+
+.cohort-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 20px;
+}
