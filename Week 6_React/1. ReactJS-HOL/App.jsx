@@ -1,5 +1,5 @@
 function App() {
-  constcontainerStyle = {
+  const containerStyle = {
     width: "100vw",              
     height: "100vh",             
     backgroundColor: "white",   
@@ -11,7 +11,7 @@ function App() {
     margin: 0
   };
 
-  constheadingStyle = {
+  const headingStyle = {
     fontSize: "32px",
     fontWeight: "bold",
     fontFamily: "Arial, sans-serif",
