@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background-color: white;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 3rem;
+  gap: 2rem;
+}
+
+.column {
+  width: 25%;
+  padding-left: 2rem;
+}
+
+.with-border {
+  border-left: 4px solid green;
+}
+
+.no-border {
+  border-left: none;
+}
