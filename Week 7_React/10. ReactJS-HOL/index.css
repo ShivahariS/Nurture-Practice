@@ -1,0 +1,22 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 2rem;
+  background-color: #fff;
+  text-align: center;
+}
+
+img {
+  margin-bottom: 2rem;
+}
+
+.textRed {
+  color: red;
+}
+
+.textGreen {
+  color: green;
+}
+
+.card {
+  margin-bottom: 2rem;
+}
